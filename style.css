@@ -1,12 +1,24 @@
 /*
-Theme Name:   Twenty Seventeen Child
+Theme Name:   play-school-kindergarten-child-theme
 Theme URI:    https://github.com/jibundeyare/src-wordpress-child-theme
-Description:  Twenty Seventeen Child Theme
-Author:       Jibundeyare
-Author URI:   https://github.com/jibundeyare/
-Template:     twentyseventeen
+Description:  theme enfant de play-school-kindergarten
+Author:       Malika Cotter
+Author URI:   
+Template:     play-school-kindergarten
 Version:      1.0.0
 */
 
 /* put your css code here */
+
+
+.top-header {
+    background-color: #56cbd4;
+    
+}
+p
+{
+    size: 2rem;
+}
+
+
 
